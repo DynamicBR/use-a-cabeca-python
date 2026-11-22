@@ -1,0 +1,16 @@
+1 Extrair os dados
+arquivo_txt = get_txt(Darius-13-100m-Fly)
+
+for _ in arquivo_txt:
+    split(-)
+    print(f"Nome: {_}\n Faixa-etária: {_}\n Distância: {_}\n Estilo: {_}")
+
+2 Processe os dados no arquivo
+conteudo_arquivo = read_txt(arquivo_txt)
+
+for t in time:
+    if "," in t:
+        tempo_nadador = split(time)
+    return tempo_nadador
+
+print(f"tempo: {tempo_nadador}")
